@@ -7,6 +7,7 @@ A Java version of a nice and easy neural network module, ready to be implemented
 **GENERATION START**
 * Then during the execution/update functions of the members, you must call the update method on it's neural network by giving it the updated input values. It will return the output values.
 * Then have them act accordingly to the outputs of the neural network.
+
 **GENERATION END**
 
 * Then set the fitness levels of the corresponding genomes in the genetic algorithm to the fitness of the neural network (for each member).
